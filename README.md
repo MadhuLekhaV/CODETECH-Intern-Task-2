@@ -69,13 +69,16 @@ Analyzed feature coefficients to determine feature importance.
 
 Results
 
-Intercept: <insert_value>
+Intercept is :-2295756.283784609
+The coeff is :[-2.72191872e+04 -2.61224400e+04  1.03631750e+03 -6.39771322e+00
+  9.97707401e+01 -3.73545857e+01  4.99035484e+01  3.93656164e+04
+ -1.93753723e+04  7.45183940e+04 -1.42341472e+03  1.68159031e+03
+ -1.93753723e+04  7.45183940e+04 -1.42341472e+03  1.68159031e+03]
 
-Coefficients:
 
 Provided in the feature importance plot.
 
-R-squared value: <insert_value>
+The R-Squared value is 0.6433902949192565
 
 Residual plot and error analysis indicate model accuracy and performance.
 
