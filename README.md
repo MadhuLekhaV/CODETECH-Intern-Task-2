@@ -101,7 +101,7 @@ To replicate this project:
 
 Clone this repository:
 
-git clone https://github.com/MadhuLekhaV/Housing-Prices-Prediction.git
+git clone https://github.com/MadhuLekhaV/CODETECH-Intern-Task-2
 
 Navigate to the project folder:
 
